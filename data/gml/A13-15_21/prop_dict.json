@@ -1,0 +1,12 @@
+{
+    "PREFEC_CD": "都道府県コード",
+    "AREA_CD": "地区コード",
+    "CTV_NAME": "市町村名",
+    "FIS_YEAR": "年度",
+    "THEMA_NO": "主題番号",
+    "LAYER_NO": "レイヤ番号",
+    "OBJ_NAME": "名称",
+    "AREA_SIZE": "ポリゴン面積(ha)",
+    "IOSIDE_DIV": "内外区分",
+    "REMARK_STR": "備考"
+}
